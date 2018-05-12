@@ -1,2 +1,2 @@
-# Dise-os-Freecad
+# Diseños-Freecad
 Piezas diseñadas con Freecad.
